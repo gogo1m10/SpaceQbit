@@ -230,7 +230,10 @@ li.dropdown {
   .tablesC tr:nth-child(odd) {
     background-color: #f2f2f2;
   }
-  .tablesT tr:nth-child(even) {
+  #task_table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  #new_task_table tr:nth-child(even) {
     background-color: #f2f2f2;
   }
   .o-tools-wrapper {
